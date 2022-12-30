@@ -1,24 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
+// import Basic from './components/Forms';
+// import Basic1 from './components/Forms1';
+// import { SignupForm } from './components/Forms2';
+// import { SignupForm } from './components/Forms3';
+// import { SignupForm } from './components/Forms4';
+// import { SignupForm } from './components/Forms5.';
+// import { CheckboxExample } from './components/Forms6';
+// import { FieldLevelValidationExample } from './components/Forms7';
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    {/* <Basic /> */}
+    {/* <Basic1/> */}
+    {/* <SignupForm /> */}
+    {/* <CheckboxExample/> */}
+    {/* <FieldLevelValidationExample/> */}
+    </>
   );
 }
 
